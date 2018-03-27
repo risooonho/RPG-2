@@ -36,11 +36,14 @@
 *.sdf
 *.sln
 <<<<<<< HEAD
+<<<<<<< HEAD
 *.suo
 *.xcodeproj
 *.xcworkspace
 Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
 =======
+=======
+>>>>>>> 6f04a68d00b73de40edf2a88d3adf607acec6b29
 *.vc.db
 
 # Binary Files
@@ -68,4 +71,7 @@ DerivedDataCache/*
 *.swp
 *.swo
 .ctrlp_cache/
+<<<<<<< HEAD
+>>>>>>> 6f04a68d00b73de40edf2a88d3adf607acec6b29
+=======
 >>>>>>> 6f04a68d00b73de40edf2a88d3adf607acec6b29
